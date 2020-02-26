@@ -1,4 +1,4 @@
-# NLP-with-TF2.0
+# Major NLP task with TF2.0
 
 This Repository is all the NLP task with TF2.0 
 
